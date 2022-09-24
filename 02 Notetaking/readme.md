@@ -66,9 +66,13 @@ __This will also be bold__
 ```
 
 *This text will be italic*
+
 _This will also be italic_
+
 **This text will be bold**
+
 __This will also be bold__
+
 *You **can** combine them*
 
 ### Lists
@@ -171,6 +175,35 @@ print("Hello World")
 | ----- | -------- | -------- |
 | Row 1 |          |          |
 | Row 2 |          |          |
+
+## Diagrams
+
+```markdown
+flowchart LR
+a --> b & c -.-> d
+```
+
+```mermaid
+flowchart LR
+a --> b & c -.-> d
+```
+
+
+
+## Math
+
+```latex
+This is inline $x^2$
+
+$$
+\int_0^\infty x^2
+$$
+```
+
+This is inline $x^2$
+$$
+\int_0^\infty x^2
+$$
 
 # Usage
 
