@@ -38,23 +38,139 @@ Notetaking helps eliminate the clutter and focus on what is important.
   - the content is separated from the styling settings
   - notetaker does not use buttons, but rather uses `#, ##, -` to denote different headers, sub-headers, lists, etc.
 
-## Example
+## Syntax
+
+### Headers
 
 ```markdown
-# This is a header
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
 
-## This is a sub-header
-
-This is a paragraph
+Paragraph
 ```
-
-The above markdown snippet gets [rendered](https://en.wikipedia.org/wiki/Rendering_(computer_graphics)) as
 
 ![example](assets/example.png)
 
-## Cheatsheet
+### Emphasis
 
-You may use the following document as [Markdown Cheatsheet](02_markdown_cheatsheet.pdf)
+```markdown
+*This text will be italic*
+_This will also be italic_
+**This text will be bold**
+__This will also be bold__
+*You **can** combine them*
+```
+
+*This text will be italic*
+_This will also be italic_
+**This text will be bold**
+__This will also be bold__
+*You **can** combine them*
+
+### Lists
+
+#### Unordered
+
+```markdown
+- Item 1
+- Item 2
+  - Item 2a
+  - Item 2b
+
+(or)
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+```
+
+- Item 1
+- Item 2
+  - Item 2a
+  - Item 2b
+
+#### Ordered
+
+```markdown
+1. Item 1
+2. Item 2
+3. Item 3
+	1. Item 3a
+	2. Item 3b
+```
+
+1. Item 1
+2. Item 2
+3. Item 3
+	1. Item 3a
+	2. Item 3b
+
+#### Tasks
+
+```markdown
+- [x] Completed item
+- [ ] Incomplete item
+```
+
+- [x] Completed item
+- [ ] Incomplete item
+
+### Images
+
+```markdown
+![Alt Text](url)
+
+Local Image
+![GitHub Logo](logo.png)
+
+Web Image
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png)
+```
+
+![GitHub Logo](assets/GitHub-Logo.png)
+
+### Links
+
+```markdown
+Unlabelled Links
+http://github.com - automatic!
+
+Labelled Links
+[GitHub](http://github.com)
+```
+
+[GitHub](http://github.com)
+
+### Code Fences
+
+````markdown
+```python
+print("Hello World")
+```
+````
+
+```python
+print("Hello World")
+```
+
+### Tables
+
+```markdown
+|       | Column 1 | Column 2 |
+| ----- | -------- | -------- |
+| Row 1 |          |          |
+| Row 2 |          |          |
+```
+
+|       | Column 1 | Column 2 |
+| ----- | -------- | -------- |
+| Row 1 |          |          |
+| Row 2 |          |          |
 
 # Usage
 
