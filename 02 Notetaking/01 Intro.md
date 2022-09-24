@@ -4,7 +4,7 @@ Hi there!
 
 Welcome to this workshop on ‘Introduction to Digital Notetaking’. In this course, we will be covering the basics of notetaking and how to efficiently take digital notes using Markdown format.
 
-This document was written with Markdown as well ❤
+(PS: This document was written with Markdown ❤)
 
 [toc]
 
