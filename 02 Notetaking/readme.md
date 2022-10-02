@@ -8,7 +8,7 @@ Welcome to this workshop on ‘Introduction to Digital Notetaking’. In this co
 
 [toc]
 
-# Notetaking 
+# Notetaking
 
 ## Definition
 
