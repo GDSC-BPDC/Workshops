@@ -5,8 +5,8 @@
 | 12:10 | 12:15     | 5       | Why this talk? My Journey                                    |
 | 12:15 | 12:30     | 15       | Purpose of Note-Taking                                       |
 | 12:30 | 01:00  | 30       | Markdown & Syntax                                            |
-| 01:00 | 01:10  | 10       | Email installation link                                            |
-| 01:10 | 01:40 | 30       | Assignment to make a Github Bio<br />Attendance by facilitators |
+| 01:00 | 01:10  | 5       | Attendance by facilitatorsEmail Installation link |
+| 01:10 | 01:40 | 30       | **Assignments**<br />- Github Bio<br />- Exam Paper |
 | 01:40 | 01:45     | 5        | Submission|
 | 01:45 | 01:50     | 5        | Group Picture|
                                 
