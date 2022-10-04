@@ -1,4 +1,4 @@
-| Start |      | Duration |                                                              |
+| Start | End  | Duration |                                                              |
 | ----- | ---- | -------- | ------------------------------------------------------------ |
 | 12:05 |      | 10       | Attendance<br />Installation of Marktext                     |
 | 12:15 |      | 15       | Why this talk? My Journey                                    |
@@ -8,9 +8,10 @@
 | 01:15 |      | 30       | Assignment to make a Github Bio<br />Attendance by facilitators |
 | 01:45 |      | 5        | Submission<br />Group Picture                                |
 
-Is this okay?
+# Assignments
+- Generate Github Bio and export as HTML
+- Create an exam paper and export as HTML
 
-If there is time
-
+# If there is time
 - Update Github Bio
 - Show how to backup these up on Github.
