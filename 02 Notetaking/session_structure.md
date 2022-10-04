@@ -1,12 +1,15 @@
 | Start | End  | Duration |                                                              |
 | ----- | ---- | -------- | ------------------------------------------------------------ |
-| 12:05 |      | 10       | Attendance<br />Installation of Marktext                     |
-| 12:15 |      | 15       | Why this talk? My Journey                                    |
-| 12:30 |      | 15       | Purpose of Note-Taking                                       |
-| 12:45 |      | 20       | Markdown & Syntax                                            |
-| 01:05 |      | 10       | Let’s take some example notes                                |
-| 01:15 |      | 30       | Assignment to make a Github Bio<br />Attendance by facilitators |
-| 01:45 |      | 5        | Submission<br />Group Picture                                |
+| 12:00 |  12:05    | 5       | Set-up
+| 12:05 | 12:10     | 5       | Waiting                    |
+| 12:10 | 12:15     | 5       | Why this talk? My Journey                                    |
+| 12:15 | 12:30     | 15       | Purpose of Note-Taking                                       |
+| 12:30 | 01:00  | 30       | Markdown & Syntax                                            |
+| 01:00 | 01:10  | 10       | Email installation link                                            |
+| 01:10 | 01:40 | 30       | Assignment to make a Github Bio<br />Attendance by facilitators |
+| 01:40 | 01:45     | 5        | Submission|
+| 01:45 | 01:50     | 5        | Group Picture|
+                                
 
 # Assignments
 - Generate Github Bio and export as HTML
