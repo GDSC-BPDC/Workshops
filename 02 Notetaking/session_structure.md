@@ -6,7 +6,7 @@
 | 12:15 | 12:30     | 15       | Purpose of Note-Taking                                       |
 | 12:30 | 01:00  | 30       | Markdown & Syntax                                            |
 | 01:00 | 01:05  | 5       | Attendance by facilitators |
-| 01:05 | 01:10  | 5       | Email Installation Link |
+| 01:05 | 01:10  | 5       | Email Installation Link and other resources |
 | 01:10 | 01:40 | 30       | **Assignments**<br />- Github Bio<br />- Exam Paper |
 | 01:40 | 01:45     | 5        | Submission|
 | 01:45 | 01:50     | 5        | Group Picture|
